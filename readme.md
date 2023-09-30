@@ -17,4 +17,7 @@ The code for ball collisions with circles or other balls was found in lecture co
 
 All features can be show in the short clip
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_73v3-1rQjk?si=t6Tc1C0AqWeSsggR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+https://github.com/jphorejsi/csci-5611-Pinball/assets/145376083/c8162f24-b38e-48e2-96e6-6ac6d1625bfc
+
