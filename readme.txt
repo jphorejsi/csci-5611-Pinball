@@ -15,4 +15,6 @@ The greatest difficulty I had with the assignment was having balls collide with 
 
 The code for ball collisions with circles or other balls was found in lecture code so implementing that was not very difficult.
 
-Polygon collisions can be seen in the Triangle collision video, different material types and reactive obstical can be seen in video called all collisions and special. Ball/Ball collisions can be seen in the video called that.
+All features can be show in the short clip
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_73v3-1rQjk?si=t6Tc1C0AqWeSsggR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
