@@ -14,3 +14,5 @@ Only the libraries included with Processing were used as thats what I programmed
 The greatest difficulty I had with the assignment was having balls collide with line segments. My first program had the balls sticking to the location where they intersected a line segment. The program could not handle the balls losing their velocity to friction. My second version worked much better but occasionally balls would phase through the line segment. The solution to this was increasing the radius of the balls.
 
 The code for ball collisions with circles or other balls was found in lecture code so implementing that was not very difficult.
+
+Polygon collisions can be seen in the Triangle collision video, different material types and reactive obstical can be seen in video called all collisions and special. Ball/Ball collisions can be seen in the video called that.
